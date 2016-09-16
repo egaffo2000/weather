@@ -1,7 +1,7 @@
 
 
 
-// we want to precache some of the resources
+// we want to precache some of the resource - tests
 var cacheName = 'weather-v5';
 var dataCacheName = 'weather-Data-v2';  // this var will store the data vs the cached static files.
 
